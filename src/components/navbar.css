@@ -1,0 +1,19 @@
+
+#moniletoglemenu{
+    display: none;
+}
+
+@media(max-width:1023px){
+    #moniletoglemenu{
+        display: block;
+    }
+}
+.navmenuitem{
+    color:white !important;
+    text-decoration: none;
+    margin-top: 10px;
+
+}
+.navmenuitem:hover{
+    color: #b9b9b9 !important;
+}
